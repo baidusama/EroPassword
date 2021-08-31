@@ -7,6 +7,7 @@
 原帖下载地址:
 
 https://alywp.net/21JvsI
+https://github.com/dawn-lc/ArchivePasswordTestTool
 
 作者：世界丿凌晨
 
